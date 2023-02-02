@@ -1,2 +1,2 @@
-# CIS115 and CSC221
-Starting out with Python
+# Starting out with Pyton
+CIS115 and CSC221

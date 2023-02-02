@@ -1,2 +1,2 @@
-# cis115andcsc221
+# CIS115 and CSC221
 Starting out with Python

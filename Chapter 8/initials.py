@@ -20,7 +20,7 @@ def main():
 
         #Print initials
         print(First_Name[0],".", Middle_Name[0],".", Last_Name[0])
-        Try_Again = input("Would you like to enter another name? Type Y or N: y")
+        Try_Again = input("Would you like to enter another name? Type Y or N: ")
 
 main()
 
